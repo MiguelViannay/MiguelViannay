@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="nome-do-seu-arquivo.gif" alt="Banner OneViannay" width="100%" />
+  <img src="bg-ov (1).png" alt="Banner OneViannay" width="100%" />
 </div>
 
-# 🌌 Bem-vindo à Base de Operações OneViannay! 
+# 🌌Miguel Viannay aqui! 
 
 Tranquilo?! Sou Miguel Viannay, gosto de desenvolver coisas que buscam ajudar o ser humano no seu dia-a-dia.
 
@@ -33,7 +33,7 @@ Tranquilo?! Sou Miguel Viannay, gosto de desenvolver coisas que buscam ajudar o 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Miguel"/>
   </a>
   <a href="mailto:contato@oneviannay.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Miguel"/>
+    <img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email do Miguel"/>
   </a>
   <a href="https://oneviannay.com.br" target="_blank">
     <img src="https://img.shields.io/badge/oneviannay.com.br-58A6FF?style=for-the-badge&color=A371F7&labelColor=0D1117" alt="Website OneViannay" />
