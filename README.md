@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="nome-do-seu-arquivo.gif" alt="Banner OneViannay" width="100%" />
+</div>
+
 # 🌌 Bem-vindo à Base de Operações OneViannay! 
 
 Tranquilo?! Sou Miguel Viannay, gosto de desenvolver coisas que buscam ajudar o ser humano no seu dia-a-dia.
@@ -15,7 +19,7 @@ Tranquilo?! Sou Miguel Viannay, gosto de desenvolver coisas que buscam ajudar o 
 
 ###  • Painel 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MiguelViannay&theme=react&background=0D1117&border=30363D&stroke=58A6FF&ring=A371F7&fire=A371F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&hide_border=false" alt="Estatísticas de Contribuição" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=MiguelViannay&theme=react&background=0D1117&border=30363D&stroke=58A6FF&ring=A371F7&fire=A371F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&hide_border=false" alt="Estatísticas de Contribuição" />
 </div>
 
 <br>
@@ -25,7 +29,7 @@ Tranquilo?! Sou Miguel Viannay, gosto de desenvolver coisas que buscam ajudar o 
   <a href="https://instagram.com/oneviannay" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram da OneViannay"/>
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/MiguelViannay" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Miguel"/>
   </a>
   <a href="mailto:contato@oneviannay.com.br" target="_blank">
