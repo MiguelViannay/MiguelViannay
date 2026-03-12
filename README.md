@@ -11,7 +11,7 @@ Tranquilo?! Sou Miguel Viannay, gosto de desenvolver coisas que buscam ajudar o 
 ###  • Arsenal Tecnológico
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,nodejs,git&theme=dark" alt="Tecnologias"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,python,mysql,postgresql,mongodb,nodejs,git&theme=dark" alt="Tecnologias"/>
   </a>
 </div>
 
